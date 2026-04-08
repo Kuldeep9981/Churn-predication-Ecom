@@ -133,4 +133,21 @@ Based on the model's findings, the most impactful retention actions are:
 5. **Personalize email campaigns** — Low `Email_Open_Rate` correlates with churn. Improve email relevance and targeting.
 
 ---
+---
+
+## 📝 One-Line Summary
+
+> *"I built a churn prediction model on 50,000 e-commerce customer records, identified customer service calls, lifetime value, cart abandonment, and engagement as the top churn drivers, and improved performance from a 70.7% Logistic Regression baseline to a 91.0% Random Forest model with strong churn recall."*
+
+---
+
+## 👤 Author
+
+**Kuldeep Patidar**
+- GitHub: [@Kuldeep9981](https://github.com/Kuldeep9981)
+- LinkedIn: [linkedin.com/in/kuldeep-patidar-mp14](https://linkedin.com/in/kuldeep-patidar-mp14)
+
+
+
+---
 
