@@ -40,7 +40,7 @@ The dashboard has three tabs:
 ## 📸 Screenshots
 
 ### Churn Prediction Tab
-![ChurnIQ Dashboard](screenshots/dashboard.png)
+![ChurnIQ Dashboard](ChurnIQ Dashboard.png)
 
 ### Prediction Result
 ![Prediction Result](screenshots/prediction_result.png)
