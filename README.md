@@ -43,10 +43,11 @@ The dashboard has three tabs:
 <img src="ChurnIQ Dashboard.png" width="900">
 
 ### Prediction Result
-![Prediction Result](prediction_result.png)
+<img src="Prediction Result.png" width="900">
 
 ### Feature Importance
-<img src="Prediction Result.png" width="900">
+<img src="Feature Importance.png" width="900">
+
 
 ---
 
