@@ -46,7 +46,7 @@ ChurnIQ Dashboard.png
 ![Prediction Result](screenshots/prediction_result.png)
 
 ### Feature Importance
-![Feature Importance](screenshots/feature_importance.png)
+![Feature Importance](Prediction Result.png)
 
 ---
 
